@@ -162,4 +162,4 @@ resources/*
 temp/
 
 # tickers
-tickers_data/*
+HW1/tickers_data/*
