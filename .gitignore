@@ -160,3 +160,6 @@ resources/*
 !resources/readme.md
 
 temp/
+
+# tickers
+tickers_data/*
