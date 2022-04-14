@@ -163,3 +163,9 @@ temp/
 
 # tickers
 HW1/tickers_data/*
+
+
+# LaTeX
+*.out
+*.aux
+*.synctex.gz
