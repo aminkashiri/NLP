@@ -63,7 +63,7 @@ class GamefaSpider(scrapy.Spider):
         yield {
             'title': title,
             'time':time,
-            'contents': content_string[:-1]
+            'content': content_string[:-1]
 
         }
 
