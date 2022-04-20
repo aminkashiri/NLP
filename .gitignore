@@ -169,3 +169,6 @@ HW1/tickers_data/*
 *.out
 *.aux
 *.synctex.gz
+
+
+HW2/data.json
